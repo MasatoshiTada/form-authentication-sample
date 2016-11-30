@@ -6,7 +6,7 @@
 </head>
 <body>
     You cannot access this URL.<br>
-    <form action="${pageContext.request.contextPath}/LogoutServlet" method="post">
+    <form action="${pageContext.request.contextPath}/login.html" method="post">
         <input type="submit" value="Logout">
     </form>
 </body>
