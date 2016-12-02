@@ -1,0 +1,5 @@
+<glassfish-web-app>
+    <property name="default-role-mapping" value="true">
+        <description>Enable default group to role mapping</description>
+    </property>
+</glassfish-web-app>
